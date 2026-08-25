@@ -1,0 +1,21 @@
+{
+    "version": 1,
+    "name": "Saksham",
+    "assistant_name": "NOVA",
+    "preferred_title": "Boss",
+    "preferred_language": "English",
+    "response_style": "natural",
+    "verbosity": "adaptive",
+    "allow_proactive_suggestions": true,
+    "interests": [],
+    "goals": [],
+    "projects": [],
+    "skills": [],
+    "preferences": {},
+    "favorite_apps": [],
+    "frequent_tasks": [],
+    "enabled_features": [],
+    "disabled_features": [],
+    "created_at": "2026-08-25T11:28:10.140938+00:00",
+    "updated_at": "2026-08-25T11:28:10.141349+00:00"
+}
